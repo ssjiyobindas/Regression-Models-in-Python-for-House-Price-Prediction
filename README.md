@@ -22,8 +22,8 @@ Tech stack
 ⮚ Libraries - sklearn, pandas, NumPy, matplotlib, seaborn, xgboost
 Approach
 1. Data Cleaning
-● Importing the required libraries and reading the dataset.
-● Preliminary exploration
+*● Importing the required libraries and reading the dataset.
+*● Preliminary exploration
 ● Check for the outliers and remove outliers.
 ● Dropping of redundant feature columns
 ● Missing value handling
